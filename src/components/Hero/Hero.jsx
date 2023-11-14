@@ -9,7 +9,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Hiro</h1>
         <p className={styles.description}>
-          I'm a full-stack deveoper. Reach out if you'd like to learn more!
+        I am passionate about leveraging technology to solve real-world challenges and am always eager to stay at the forefront of industry trends. Let's connect and explore how my skills and experiences can contribute to your next project or team endeavor. Reach out if you'd like to learn more!
         </p>
         <a href="mailto:hiroaki.arai77@gmail.com" className={styles.contactBtn}>
           Contact Me

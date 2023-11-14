@@ -26,6 +26,9 @@
   gap: 47px;
   list-style: none;
 }
+.menuBtn{
+  display: none;
+}
 
 .menuItems a {
   font-size: 25px;

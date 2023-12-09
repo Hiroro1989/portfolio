@@ -1,10 +1,10 @@
 [
     {
-        "role":"Data Analyst",
+        "role":"Data Analyst/IT support",
         "organization":"Cognizant",
         "startDate":"Apr, 2019",
         "endDate":"Jun, 2023",
-        "experiences":["Worked for Twitter platform","lorem ipsum"],
+        "experiences":["Worked for Twitter platform","Analyze and interpret complex data sets and apply client’s policies","Led efforts to identify and resolve complexmtechnicnal issues reported bycustomers through effective troubleshooting", "Actively contributed to the development, implementation, and evaluation of new tools, with positive results and increased productivity." ],
         "imageSrc":"history/cognizant.png"
     }
 ]

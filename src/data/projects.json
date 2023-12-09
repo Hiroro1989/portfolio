@@ -1,26 +1,25 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "BookWise",
+      "imageSrc": "projects/bookwise.png",
+      "description": "BookWise is a web application that allows users to Create a book management system that allows users to track and manage their personal library.",
+      "skills": ["Node", "mySQL", "Express"],
+      "source": "https://github.com/Saloni0412/BookWise"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "title": "ShoppingHub",
+      "imageSrc": "projects/ShoppingHub.png",
+      "description": "It demonstrates the capabilities of the MERN stack combined with Mongoose, offering a feature-rich and user-friendly online shopping experience.",
+      "skills": ["React", "Express", "Node", "MongoDB"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/Saloni0412/ShoppingHub"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "title": "Memory Game",
+      "imageSrc": "projects/memory-game.png",
+      "description": "This is a memory game where the user needs to match pairs of images hidden behind cards. The game uses two server-side APIs to provide the images and jokes displayed on the page.",
+      "skills": ["HTML5", "Bulma", "JavaScript"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/AngadBatth/memory-game"
     }
   ]
